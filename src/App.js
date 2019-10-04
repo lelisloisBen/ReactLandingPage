@@ -11,7 +11,7 @@ function App() {
     <>
       <MyNavBar/>
       <div className="container">
-        <Jumbo title="" description="" linkUrl="" linkClass="btn btn-primary btn-lg" linkName="Call to action!" />
+        <Jumbo title="I videotape every customer that comes in here, so that I may blackmail them later." description="Wow, you got that off the Internet? In my day, the Internet was only used to download pornography. Yeah, lots of people did. I usually try to keep my sadness pent up inside where it can fester quietly as a mental illness." linkUrl="http://fillerama.io/" linkClass="btn btn-primary btn-lg" linkName="A true inspiration for the children." />
         <div className="row text-center">
             <LandingCard image="https://cdn.arstechnica.net/wp-content/uploads/2017/10/Futurama-800x449.jpg" title="Card 1" description="Soon enough. I was all of history's great robot actors - Acting Unit 0.8; Thespomat; David Duchovny! Look, everyone wants to be like Germany, but do we really have the pure strength of 'will'? Bender, I didn't know you liked cooking. That's so cute." btnUrl="http://fillerama.io/" btnClassName="btn btn-primary" btnName="button1" />
             <LandingCard image="https://vignette.wikia.nocookie.net/en.futurama/images/6/67/Futurama-01_0.jpg/revision/latest?cb=20141012181430" title="Card 2" description="Bite my shiny metal ass. I'm sorry, guys. I never meant to hurt you. Just to destroy everything you ever believed in. Who said that? SURE you can die! You want to die?! There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors!" btnUrl="http://fillerama.io/" btnClassName="btn btn-danger" btnName="button2" />
