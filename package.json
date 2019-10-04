@@ -3,6 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9",
+    "prop-types": "^15.6.1",
+    "query-string": "^5.1.1",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "react-scripts": "3.2.0"
